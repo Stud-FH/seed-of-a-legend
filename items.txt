@@ -1,0 +1,92 @@
+Headband of the Puppeteer:
+- Requires Attunement
+- Intelligence Score minimum 19
+- Deception Bonus -> Raise Modifier to +8, minimum Bonus: +3
+- 6 Charges
+- 1 Charge -> Alter Self
+- 2 Charges -> Dream
+- 3 Charges -> Phantasmal Killer
+- 4 Charges -> Mass Suggestion
+- 1d4 Charges regained per Long Rest
+- When dropping to 0 Charges, there's a 5% Chance the Headband is destroyed
+- Character Flaw (activate on attunement): "I would risk my life to keep the Headband"
+- Character Flaw (activate on attunement): "Knowledge is power and I want to keep it to myself. Lying is like breathing to me"
+- While the Headband is worn, any Spell can only suppress the Character Flaws for up to 1 day. After that, the Character Flaws take effect again.
+
+Shell Earrings of Comfort
+- Requires Attunement
+- You can breathe in any environment
+- The atmosphere around you always feels comfortably warm
+- You gain Resistance against Cold- and Fire Damage
+- Difficult Terrain does not reduce your movement
+- Character Flaw (activate on attunement): "I feel attracted to danger. I like it when my companions protect me and save me from precarious situations"
+- While the Earrings are worn, any Spell can only suppress the Character Flaw for up to 1 day. After that, the Character Flaw takes effect again.
+
+Wooden Amulet of the Moon
+- Requires Attunement
+- Your unarmed Strikes deal Radiant Damage
+- You gain Blindsight to a range of 10 ft.
+- 6 Charges
+- 1 Charge -> Jump
+- 1 Charge -> Longstrider
+- 3 Charges -> Daylight
+- 4 Charges -> Blinding Smite
+- 1d6 Charges regained per Long Rest
+- When dropping to 0 Charges, there's a 5% Chance the Amulet is destroyed
+- Character Flaw (activate on attunement): "I feel being watched by the shadows. As if they might attack me any second."
+- While the Amulet is worn, any Spell can only suppress the Character Flaw for up to 1 day. After that, the Character Flaw takes effect again.
+
+Grimoire "Haemah"
+- Understands any language when spoken to telepathically, but only responds in Abyssal
+- Requires Attunement
+- As an Action, you can sacrifice a part of your Hit Points to please the Grimoire's blood thirst. You gain the following gifts in return:
+* (Concentration up to 1 minute, optional) You gain Temporary Hit Points equal to half the number of HP sacrificed.
+* (instantaneous, optional) Choose one creature within 15 ft. of you. It must succeed on a Charisma Saving Throw, or take necrotic damage equal to half the number of HP sacrificed.
+* (1 hour) You can increase an Ability Score of your choice by the number of HP sacrificed divided by 10 (rounded down).
+* (instantaneous) Roll for a random effect on the Blood Sacrifice Table. You can fudge the result by +/-1 if you sacrificed 30 HP or more, +/-2 on 50 HP or more, and +/-3 on 70 HP or more.
+- Character Flaw (activate on attunement): "The smell of blood excites me like a forbidden fruit"
+- Character Flaw (activate on attunement): "I sometimes feel like I lost myself in the past and I need to go back to the person I was before, rather than who I have become"
+- While carrying the Grimoire, any Spell can only suppress the Character Flaws for up to 1 day. After that, the Character Flaw takes effect again.
+
+Bracelet of Spectral Bones
+- Requires Attunement
+- You cannot be targeted by Divination spells
+- You gain Darkvision to a range of 120ft.
+- You can see through magical darkness
+- 6 Charges
+- 2 Charges -> Enlarge Reduce
+- 2 Charges -> Major Image
+- 2 Charges -> Magic Mouth (no Material Components required)
+- 4 Charges -> Greater Invisibility
+- 1d6 Charges regained per Long Rest
+- When dropping to 0 Charges, there's a 5% Chance the Bracelet is destroyed
+- Character Flaw (activate on attunement): "I sometimes do weird stuff in public, accidentally assuming that I was invisible"
+- While the Bracelet is worn, any Spell can only suppress the Character Flaw for up to 1 day. After that, the Character Flaw takes effect again.
+
+
+
+
+
+Blood Sacrifice Table
+.   Your eyes start to bleed. You are blinded for the next 1d4 days.
+.   You lose control of the grimoire's savage greed. The sacrifice consumes all of your HP and you fall unconscious.
+.   no speak
+.   random words?
+.   Your Hit Point Maximum is reduced by the number of HP sacrificed. This lasts until you finish a Long Rest.
+.   For the next 10 minutes you are surrounded by an aura of magical darkness, magical silence, or antimagic (your choice) radius: 30ft.
+.   For the next minute you are surrounded by an aura of enfeeblement. Each creature that starts its turn within 20ft. of you or enters that area must succeed on a Constitution Saving Throw, or be affected by the "Slowed" Condition until the effect ends. The Saving Throw can be repeated at the end of a creature's turn.
+.   Choose a point you can see within 60 ft. of you. A demon chosen by the DM appears in this spot (CR 4-9). The demon attacks random targets until it is destroyed, or returns to the abyss after 10 minutes.
+.   For the next hour you are proficient with any tool, language, armor, weapon, skill, or saving throw of your choice.
+.   For the next hour you have expertise in any skill of your choice.
+.   For the next minute you can use your reaction to cast Misty Step, without expending any spell slots.
+.   The Grimoire casts "Fly" on you (10 minutes).
+.   For the next 10 minutes, every spell you know counts as Prepared.
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+20  
