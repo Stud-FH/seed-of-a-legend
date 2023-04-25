@@ -1,0 +1,80 @@
+Headband of the Puppeteer:
+- Requires Attunement
+- Intelligence Score minimum 19
+- Deception Bonus -> Raise Modifier to +8, minimum Bonus: +3
+- 10 Charges
+- 2 Charges -> Alter Self
+- 5 Charges -> Mirage Arcane
+- 5 Charges -> Mass Suggestion
+- 6 Charges -> Finger of Death
+- 4 Charges -> Dream
+- 1d4 Charges regained per Long Rest
+- When dropping to 0 Charges, there's a 5% Chance the Headband is destroyed
+- Character Flaw (activate on attunement): "I would risk my life to keep the Headband"
+- Character Flaw (activate on attunement): "Knowledge is power and I want to keep it to myself. Lying is like breathing to me"
+- Character Flaws and Deception Bonus remain without wearing the Headband
+- 'Greater Restoration' can weaken the Character Flaws. Whenever targeted by this spell for this purpose, subtract 1 from the Deception Bonus. As soon as it reaches 0, the Character Flaws fade. You are unaware of this mechanic.
+- While the Headband is worn, any Spell can only suppress the Character Flaws for up to 1 day. After that, the Character Flaws take effect again.
+
+Shell Earrings of Comfort
+- Requires Attunement
+- You can breathe in any environment
+- The atmosphere around you always feels comfortably warm
+- You gain Resistance against Cold- and Fire Damage
+- Difficult Terrain does not reduce your movement
+- Character Flaw (activate on attunement): "I feel attracted to danger. I like it when my companions protect me and save me from precarious situations"
+- While the Earrings are worn, any Spell can only suppress the Character Flaw for up to 1 day. After that, the Character Flaw takes effect again.
+
+Wooden Amulet of the Moon
+- Requires Attunement
+- Your unarmed Strikes deal Radiant Damage
+- You gain Blindsight to a range of 10 ft.
+- 6 Charges
+- 1 Charge -> Jump
+- 1 Charge -> Longstrider
+- 3 Charges -> Daylight
+- 4 Charges -> Blinding Smite
+- 1d6 Charges regained per Long Rest
+- When dropping to 0 Charges, there's a 5% Chance the Amulet is destroyed
+- Character Flaw (activate on attunement): "I feel being watched by the shadows. As if they might attack me any second."
+- While the Amulet is worn, any Spell can only suppress the Character Flaw for up to 1 day. After that, the Character Flaw takes effect again.
+
+Grimoire "Haemah"
+- Understands any language when spoken to telepathically, but only responds in Abyssal
+- Requires Attunement
+- As an Action, you can sacrifice a part of your Hit Points to please the Grimoire's blood thirst. You gain the following gifts in return:
+* (Concentration up to 1 minute, optional) You gain Temporary Hit Points equal to half the number of HP sacrificed.
+* (instantaneous, optional) Choose one creature within 15 ft. of you. It must succeed on a Charisma Saving Throw, or take necrotic damage equal to half the number of HP sacrificed.
+* (1 hour) You gain a Bonus to your Spellcasting Modifier equal to the number of HP sacrificed divided by 20, rounded down.
+* (variable) Roll a d100. If you roll equal or below the number of Hit Points sacrificed, you get to choose an effect from the 'Haemah Gift Table'. If you roll higher, the effect is determined randomly.
+* (instantaneous) There's a 5% chance for Haemah to get greedy and consume more than you would have allowed. The amount of HP you sacrifice is doubled.
+- Character Flaw (activate on attunement): "The smell of blood excites me like a forbidden fruit"
+- While carrying the Grimoire, any Spell can only suppress the Character Flaw for up to 1 day. After that, the Character Flaw takes effect again.
+
+Bracelet of Spectral Bones
+- Requires Attunement
+- You cannot be targeted by Divination spells
+- You gain Darkvision to a range of 120ft.
+- You can see through magical darkness
+- 6 Charges
+- 2 Charges -> Enlarge Reduce
+- 2 Charges -> Major Image
+- 2 Charges -> Magic Mouth (no Material Components required)
+- 4 Charges -> Greater Invisibility
+- 1d6 Charges regained per Long Rest
+- When dropping to 0 Charges, there's a 5% Chance the Bracelet is destroyed
+- Character Flaw (activate on attunement): "I sometimes do weird stuff in public, accidentally assuming that I was invisible"
+- While the Bracelet is worn, any Spell can only suppress the Character Flaw for up to 1 day. After that, the Character Flaw takes effect again.
+
+
+
+
+
+Haemah Gift Table
+1	You gain expertise in a skill relevant to your current circumstances. You must be proficient with that skill.
+2	You gain proficiency in a skill relevant to your current circumstances.
+3	You gain expertise in all of your tool proficiencies
+4	You gain proficiency with a tool of your choice
+5	You can cast Misty Step at will, without expending any spell slots.
+6	You are surrounded by a sphere of either magical darkness, magical silence, or an antimagic field (your choice) radius: 30ft.
+7	...
