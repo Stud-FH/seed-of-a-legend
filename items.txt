@@ -68,25 +68,23 @@ Bracelet of Spectral Bones
 
 
 Blood Sacrifice Table
-.   Your eyes start to bleed. You are blinded for the next 1d4 days.
-.   You lose control of the grimoire's savage greed. The sacrifice consumes all of your HP and you fall unconscious.
-.   no speak
-.   random words?
-.   Your Hit Point Maximum is reduced by the number of HP sacrificed. This lasts until you finish a Long Rest.
-.   For the next 10 minutes you are surrounded by an aura of magical darkness, magical silence, or antimagic (your choice) radius: 30ft.
-.   For the next minute you are surrounded by an aura of enfeeblement. Each creature that starts its turn within 20ft. of you or enters that area must succeed on a Constitution Saving Throw, or be affected by the "Slowed" Condition until the effect ends. The Saving Throw can be repeated at the end of a creature's turn.
-.   Choose a point you can see within 60 ft. of you. A demon chosen by the DM appears in this spot (CR 4-9). The demon attacks random targets until it is destroyed, or returns to the abyss after 10 minutes.
-.   For the next hour you are proficient with any tool, language, armor, weapon, skill, or saving throw of your choice.
-.   For the next hour you have expertise in any skill of your choice.
-.   For the next minute you can use your reaction to cast Misty Step, without expending any spell slots.
-.   The Grimoire casts "Fly" on you (10 minutes).
-.   For the next 10 minutes, every spell you know counts as Prepared.
-.   
-.   
-.   
-.   
-.   
-.   
-.   
-.   
-20  
+01  You lose control of the grimoire's savage greed. The sacrifice consumes all of your HP and you fall unconscious.
+02  Your Hit Point Maximum is reduced by the number of HP sacrificed. This lasts until you finish a Short or Long Rest.
+03  For the next 10 minutes whenever you want to say something, random words come out of your mouth. Spells with Verbal Components have a 50% chance to fail.
+04  
+05  
+06  For the next 10 minutes you are surrounded by an aura of magical darkness, magical silence, or antimagic (your choice) radius: 30ft.
+07  For the next 10 minutes you are surrounded by an aura of enfeeblement. Each creature that starts its turn within 20ft. of you or enters that area must succeed on a DC 16 Constitution Saving Throw, or be affected by the "Slowed" Condition until the effect ends. The Saving Throw can be repeated at the start of a creature's turn.
+08  Choose a point you can see within 60 ft. of you. A demon chosen by the DM appears in this spot (CR 4-9). The demon attacks random targets until it is destroyed, or returns to the abyss after 10 minutes.
+09  
+10  For the next hour you are proficient with any vehicle, tool, language, armor, weapon, skill, or saving throw of your choice.
+11  
+12  
+13  For the next hour you have expertise in any skill of your choice.
+14  For the next 10 minutes whenever you are targeted by an Attack, you can use your Reaction to cast Misty Step without expending any spell slots, causing the Attack to miss.
+15  The Grimoire casts "Fly" on you (10 minutes).
+16  For the next 10 minutes, every spell you know counts as Prepared.
+17  For the next 10 minutes, your spells and weapons deal maximum damage.
+18  You gain two uses of Legendary Resistance, which must be used within the next hour.
+19  
+20  For the next 10 minutes, as soon as you leave any creature's sight, it forgets everything you have said and done during the time of this effect.
