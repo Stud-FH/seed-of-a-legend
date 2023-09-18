@@ -1,8 +1,10 @@
+u(x): you can use this ability x times before the effect ends
+
 Table Selection
-01  For the next 1d4 hours you gain a Chaotic Gift, but suffer a Severe Side Effect
-02  For the next hour you gain an Enhancing Gift, but suffer a Severe Side Effect
-03  For the next 10 minutes you gain a Protective Gift, but suffer a Severe Side Effect
-04  You get a Material Gift, but suffer a permanent Aesthetic Side Effect
+01  For the next 1d4 hours you gain a Chaotic Gift and suffer a Severe Side Effect
+02  For the next hour you gain an Enhancing Gift and suffer a Severe Side Effect
+03  For the next 10 minutes you gain a Protective Gift and suffer a Severe Side Effect
+04  You get a Material Gift and suffer a permanent Aesthetic Side Effect
 05  For the next 1d4 hours you gain a Chaotic Gift, but suffer a Severe Side Effect
 06  For the next 1d4 hours you gain a Chaotic Gift, but suffer a Severe Side Effect
 07  For the next 1d4 hours you gain a Chaotic Gift, but suffer an Aesthetic Side Effect
@@ -15,36 +17,36 @@ Table Selection
 14  
 15  
 16  
-17  
-18  
-19  
-20  
+17  You 
+18  For the next 1d4 hours you gain a Protecctive Gift.
+19  For the next 1d4 hours you gain an EnhancingGift.
+20  For the next 1d4 hours you gain an Empowering Gift.
 
 Empowering Gifts
-01  
-02  
+01  You are proficient with a vehicle, tool, instrument, or language of your choice.
+02  You have advantage on Constitution-based rolls.
 03  
 05  
 06  
-07  
+07  You have advantage on Strength-based rolls.
 08  
 09  
-10  
-11  
+10  You have advantage on Wisdom-based rolls.
+11  You have Expertise in any skill of your choice
 12  
-13  
+13  You have advantage on Charisma-based rolls.
 14  
-15  
-16  
-17  
-18  
+15  You have advantage on Dexterity-based rolls.
+16  You can hover and move through the air with a speed of 60 ft.
+17  You have advantage on Intelligence-based rolls.
+18  Your spells and weapons deal maximum damage.
 19  
 20  
 
 Enhancing Gifts
-01  
-02  
-03  
+01  You have expertise in any skill of your choice.
+02  Every spell you know counts as Prepared.
+03  You can see invisible creatures
 05  
 06  
 07  
@@ -63,9 +65,9 @@ Enhancing Gifts
 20  
 
 Protective Gifts
-01  
+01  You gain immunity against the Charmed Condition
 02  
-03  
+03  You gain 10 Temporary Hit Points
 05  
 06  
 07  
@@ -78,10 +80,10 @@ Protective Gifts
 14  
 15  
 16  
-17  
+17  You gain immunity against the Unconcious Condition
 18  
-19  
-20  
+19  Whenever you are targeted by an Attack or find yourself in an area of effect, you can use your Reaction to cast Misty Step without expending any spell slots.
+20  You gain two uses of Legendary Resistance, which must be used within the duration.
 
 Material Gifts
 01  
@@ -96,7 +98,7 @@ Material Gifts
 11  
 12  
 13  
-14  
+14  u(1) Touch a medium-sized nonmagical plant. The plant shudders and grows a fruit with a core of solid gold worth 250gp. As soon as you pluck it, the plant withers and dies.
 15  
 16  
 17  
@@ -123,7 +125,7 @@ Chaotic Gifts
 17  
 18  
 19  
-20  
+20  As soon as you leave any creature's sight, it forgets everything you have said and done since the sacrifice.
 
 
 Aesthetical Side Effects
@@ -148,9 +150,9 @@ Aesthetical Side Effects
 20  
 
 Chaotic Side Effects
-01  
-02  
-03  
+01  You are surrounded by an aura of magical darkness, magical silence, or antimagic (your choice) radius: 30ft.
+02  You are surrounded by an aura of enfeeblement. Each creature that starts its turn within 20ft. of you or enters that area must succeed on a DC 16 CON Saving Throw, or be affected by the "Slowed" Condition until the effect ends. The Saving Throw can be repeated at the start of a creature's turn.
+03  Choose a point you can see within 60 ft. of you. A demon chosen by the DM appears in this spot (CR 4-9). The demon attacks random targets until it is destroyed, or returns to the abyss after the duration.
 05  
 06  
 07  
@@ -190,9 +192,9 @@ Impairing Side Effects
 20  
 
 Severe Side Effects
-01  
-02  
-03  
+01  You lose control of the grimoire's savage greed. The sacrifice consumes all of your HP and you fall unconscious.
+02  Your Hit Point Maximum is reduced by the number of HP sacrificed. This lasts until you finish a Short or Long Rest.
+03  Whenever you want to say something, random words come out of your mouth. Spells with Verbal Components have a 50% chance to fail.
 05  
 06  
 07  
